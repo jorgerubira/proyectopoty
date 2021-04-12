@@ -1,3 +1,4 @@
 # proyectopoty
 Proyecto MiniSpotify
-Generando el readme
+Generando el readme.
+qwerqwer.
